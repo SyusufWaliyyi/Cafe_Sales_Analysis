@@ -160,8 +160,9 @@ Raw Excel
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/cafe-sales-eda.git
-cd cafe-sales-eda
+git clone https://github.com/SyusufWaliyyi/Cafe
+_Sales_Analysis.git
+cd Cafe_Sales_Analysis
 
 # 2. Create and activate a virtual environment
 python -m venv .venv
