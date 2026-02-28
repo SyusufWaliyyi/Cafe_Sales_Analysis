@@ -77,8 +77,7 @@ The project is aimed at intermediate Python practitioners and follows standard d
 cafe-sales-eda/
 │
 ├── cafe_sales.xlsx                  # Raw data (not committed — see note below)
-├── cafe_sales_analysis_v2.ipynb     # Main analysis notebook
-├── cafe_analysis.png                # Composite output chart
+├── cafe_sales_analysis.ipynb        # Main analysis notebook
 ├── README.md                        # This file
 └── requirements.txt                 # Python dependencies
 ```
