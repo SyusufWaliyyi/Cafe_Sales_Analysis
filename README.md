@@ -1,4 +1,4 @@
-# Caf-_Sales_Analysis
+# Cafe_Sales_Analysis
 
 # ☕ Café Sales — Exploratory Data Analysis
 
